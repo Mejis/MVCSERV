@@ -1,0 +1,531 @@
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csc.exe
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csc.exe.config
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csc.rsp
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csi.exe
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csi.exe.config
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\csi.rsp
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.AppContext.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Console.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.IO.Compression.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.IO.Pipes.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Claims.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Threading.Thread.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.ValueTuple.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Xml.XPath.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\vbc.exe
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\vbc.exe.config
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\vbc.rsp
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\VBCSCompiler.exe
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\MVCServis.dll.config
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\MVCServis.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\MVCServis.pdb
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Antlr3.Runtime.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\EntityFramework.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\EntityFramework.SqlServer.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Newtonsoft.Json.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Owin.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Helpers.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Mvc.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Optimization.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Razor.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.Deployment.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.Razor.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\WebGrease.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Antlr3.Runtime.pdb
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Newtonsoft.Json.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Helpers.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Mvc.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Optimization.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.Razor.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.Deployment.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\System.Web.WebPages.Razor.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\EntityFramework.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\EntityFramework.SqlServer.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\obj\Debug\MVCServis.dll
+c:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServis\MVCServis\obj\Debug\MVCServis.pdb
+C:\Users\BEM\documents\visual studio 2015\Projects\MVCServis\MVCServis\obj\Debug\MVCServis.csprojResolveAssemblyReference.cache
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csc.exe
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csc.exe.config
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csc.rsp
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csi.exe
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csi.exe.config
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\csi.rsp
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.AppContext.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Console.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.IO.Compression.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Claims.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Threading.Thread.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.ValueTuple.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\vbc.exe
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\vbc.exe.config
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\vbc.rsp
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\VBCSCompiler.exe
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\MVCServis.dll.config
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\MVCServis.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\MVCServis.pdb
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Antlr3.Runtime.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\EntityFramework.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\EntityFramework.SqlServer.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Newtonsoft.Json.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Owin.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Helpers.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Mvc.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Optimization.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Razor.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.Razor.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\WebGrease.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Antlr3.Runtime.pdb
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Newtonsoft.Json.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Helpers.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Mvc.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Optimization.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.Razor.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\System.Web.WebPages.Razor.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\EntityFramework.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\EntityFramework.SqlServer.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\obj\Debug\MVCServis.dll
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\obj\Debug\MVCServis.pdb
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\obj\Debug\MVCServis.Migrations.InitialCreate.resources
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\obj\Debug\MVCServis.csproj.GenerateResource.Cache
+C:\Users\BEM\Documents\Visual Studio 2015\Projects\MVCServisSon\MVCServis\obj\Debug\MVCServis.csprojResolveAssemblyReference.cache
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csc.exe
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csc.exe.config
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csc.rsp
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csi.exe
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csi.exe.config
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\csi.rsp
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.AppContext.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Collections.Immutable.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Console.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.Process.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.IO.Compression.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.IO.Pipes.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Reflection.Metadata.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.AccessControl.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Claims.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Threading.Thread.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.ValueTuple.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XPath.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\vbc.exe
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\vbc.exe.config
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\vbc.rsp
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\VBCSCompiler.exe
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\roslyn\VBCSCompiler.exe.config
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\MVCServis.dll.config
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\MVCServis.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\MVCServis.pdb
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Antlr3.Runtime.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\EntityFramework.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\EntityFramework.SqlServer.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Google.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Web.Infrastructure.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Newtonsoft.Json.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Owin.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Helpers.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Mvc.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Optimization.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Razor.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.Deployment.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.Razor.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\WebGrease.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Antlr3.Runtime.pdb
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Google.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Newtonsoft.Json.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Helpers.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Mvc.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Optimization.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.Razor.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.Deployment.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\System.Web.WebPages.Razor.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\EntityFramework.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\EntityFramework.SqlServer.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\obj\Debug\MVCServis.dll
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\obj\Debug\MVCServis.pdb
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\obj\Debug\MVCServis.Migrations.InitialCreate.resources
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\obj\Debug\MVCServis.csproj.GenerateResource.Cache
+D:\SLN YAZILIM\BİLİŞİM MERKEZİ\MVCServisSon\MVCServis\obj\Debug\MVCServis.csprojResolveAssemblyReference.cache
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csc.exe
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csc.exe.config
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csc.rsp
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csi.exe
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csi.exe.config
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\csi.rsp
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.AppContext.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Console.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.IO.Compression.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Claims.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Threading.Thread.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.ValueTuple.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\vbc.exe
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\vbc.exe.config
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\vbc.rsp
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\VBCSCompiler.exe
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\MVCServis.dll.config
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\MVCServis.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\MVCServis.pdb
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Antlr3.Runtime.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\EntityFramework.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\EntityFramework.SqlServer.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Newtonsoft.Json.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Owin.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Helpers.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Mvc.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Optimization.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Razor.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.Razor.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\WebGrease.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Antlr3.Runtime.pdb
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Newtonsoft.Json.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Helpers.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Mvc.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Optimization.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.Razor.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\System.Web.WebPages.Razor.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\EntityFramework.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\EntityFramework.SqlServer.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\obj\Debug\MVCServis.dll
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\obj\Debug\MVCServis.pdb
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\obj\Debug\MVCServis.csprojResolveAssemblyReference.cache
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\obj\Debug\MVCServis.Migrations.InitialCreate.resources
+C:\Users\BEM\Desktop\MVCServis0307\MVCServis\obj\Debug\MVCServis.csproj.GenerateResource.Cache
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csc.exe
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csc.exe.config
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csc.rsp
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csi.exe
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csi.exe.config
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\csi.rsp
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.AppContext.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Console.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.IO.Compression.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Claims.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.ValueTuple.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\vbc.exe
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\vbc.exe.config
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\vbc.rsp
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\VBCSCompiler.exe
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\MVCServis.dll.config
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\MVCServis.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\MVCServis.pdb
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Antlr3.Runtime.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\EntityFramework.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\EntityFramework.SqlServer.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Newtonsoft.Json.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Owin.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Helpers.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Mvc.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Optimization.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Razor.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.Razor.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\WebGrease.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Antlr3.Runtime.pdb
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Newtonsoft.Json.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Helpers.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Mvc.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Optimization.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.Razor.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\System.Web.WebPages.Razor.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\EntityFramework.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\EntityFramework.SqlServer.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\obj\Debug\MVCServis.csprojResolveAssemblyReference.cache
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\obj\Debug\MVCServis.dll
+C:\Users\SLN-YAZILIM\Documents\Visual Studio 2017\Projects\MVCServis0607\MVCServis\obj\Debug\MVCServis.pdb
